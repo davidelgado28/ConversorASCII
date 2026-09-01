@@ -11,6 +11,7 @@ This project includes source code and implementations in the following languages
 - **Assembly**
 - **Brainfuck**
 - **C**
+- **Carlos**
 - **C++**
 - **C#**
 - **Cobol**
